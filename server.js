@@ -1,9 +1,8 @@
 const express = require('express')
 
-//FRONT
 const webMapa = express()
 
-const base = '/home/front-web-mappa/build';
+const base = '/home/prefeitura/front-web-mappa/build';
 
 webMapa.use(express.static(`${base}`))
 
