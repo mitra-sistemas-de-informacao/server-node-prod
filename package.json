@@ -1,0 +1,24 @@
+{
+  "name": "server-node-prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitra-sistemas-de-informacao/server-node-prod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/mitra-sistemas-de-informacao/server-node-prod/issues"
+  },
+  "homepage": "https://github.com/mitra-sistemas-de-informacao/server-node-prod#readme"
+}
